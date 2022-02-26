@@ -162,7 +162,7 @@ section::after {
     transition: 0.5s;
 }
 
-.box .box .list:hover .content h4,
+.box .list:hover .content h4,
 .box .list:hover .content p
 {
     color:#333
